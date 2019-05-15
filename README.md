@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proxy Service App to track each request with params.
 
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
+ -> 2.6.0
 
 * Configuration
+ - change database.yml file as per your local machine configration
 
 * Database creation
+  -> rake db:create
+  -> rake db:migrate
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
