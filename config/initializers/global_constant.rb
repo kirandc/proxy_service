@@ -1,0 +1,1 @@
+REDIRECT_URL = "https://www.mocky.io/v2/5185415ba171ea3a00704eed"
